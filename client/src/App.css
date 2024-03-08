@@ -27,10 +27,6 @@
 
 body {
   background-color: white;
+  background-attachment: fixed;
 }
 
-.app {
-  background-image: url('photos/close-up-clock-with-time-change.jpg');
-  background-size: cover;
-  background-position: center;
-}
